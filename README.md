@@ -16,109 +16,207 @@
 
 ## 🚀 About Me
 
-```javascript
-const shantanu = {
-  name: "Shantanu Sharma",
-  location: "India 🇮🇳",
-  currentRole: "Software Developer @ W3villa Technologies",
-  experience: "1+ Years",
-  
-  // Current Professional Work
-  currentProject: "SuperOne - Game Application",
-  
-  // Personal Projects
-  sideProjects: [
-    "Podcast Linker - Content Management Platform",
-    "POS System - Point of Sale Application",
-    "Government Times - News Portal"
-  ],
-  
-  // Technical Expertise
-  techStack: {
-    backend: ["Node.js", "Sails.js", "Redis", "MySQL", "Express.js"],
-    frontend: ["React", "JavaScript", "HTML5", "CSS3", "Admin Panels"],
-    realtime: ["Socket.io", "WebSockets"],
-    deployment: ["Docker", "Cloud Deployment", "AWS", "Heroku"],
-    tools: ["Git", "Postman", "Figma", "Adobe Photoshop"],
-    databases: ["MySQL", "MongoDB", "Redis"]
-  },
-  
-  // Areas of Focus
-  specialization: [
-    "Game Development", 
-    "Real-time Applications", 
-    "Full Stack Development",
-    "Content Management Systems"
-  ],
-  
-  // Current Learning Path
-  learning: [
-    "Docker & Containerization", 
-    "Spring Boot Microservices", 
-    "Machine Learning Applications", 
-    "Advanced System Architecture"
-  ],
-  
-  // What I can help with
-  askMeAbout: [
-    "React & Modern Frontend", 
-    "Node.js & Backend APIs", 
-    "Sails.js Framework", 
-    "Game Development", 
-    "Real-time Systems",
-    "Database Design & Optimization"
-  ],
-  
-  // Personal Philosophy
-  funFact: "Building games and applications that connect people worldwide! 🎮🌐",
-  motto: "Code with passion, deploy with precision!",
-  contact: "shantanusharma9144@gmail.com"
-};
-```
+<div align="center">
+
+### 👨‍💻 **Shantanu Sharma** | Full Stack Developer
+
+🌍 **Based in India** | 💼 **Software Developer @ W3villa Technologies** | 🎯 **1+ Years Experience**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**🎮 Current Professional Work**
+- **SuperOne** - Multiplayer Game Application
+- Building real-time gaming experiences
+- Scaling applications for thousands of users
+
+**🛠️ Core Technologies**
+- **Backend**: Node.js, Sails.js, Express.js
+- **Frontend**: React, JavaScript, HTML5, CSS3
+- **Database**: MySQL, MongoDB, Redis
+- **Real-time**: Socket.io, WebSockets
+
+</td>
+<td width="50%">
+
+**🚀 Recent Projects**
+- **Podcast Linker** - Content Management Platform
+- **PGx** - Healthcare Genetics Platform
+- **Government Times** - News & Information Portal
+- **POS System** - Point of Sale Application
+- **Job Listing Platform** - RESTful API System
+
+**📚 Currently Learning**
+- Docker & Containerization
+- Spring Boot Microservices
+- Machine Learning Applications
+- Advanced Cloud Architecture
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🎯 Specialization**: Game Development • Real-time Applications • Full Stack Development • Content Management
+
+**💬 Ask me about**: React, Node.js, Sails.js, Game Development, Real-time Systems, Database Design
+
+**🎮 Fun Fact**: Building games and applications that connect people worldwide!
+
+**📧 Contact**: [shantanusharma9144@gmail.com](mailto:shantanusharma9144@gmail.com)
+
+</div>
 
 ---
 
-## 💼 Professional Experience & Projects
+## 💼 Professional Experience & Achievements
 
 <div align="center">
 
 ### 🏢 W3villa Technologies
 **Software Developer** | *Current Position*
 
-🎮 **SuperOne Project** - Multiplayer Game Application
-- **Backend Development**: Architecting scalable APIs using **Node.js** and **Sails.js**
-- **Admin Dashboard**: Building comprehensive management interfaces with **React**
-- **Database Optimization**: Designing efficient data structures with **MySQL**
-- **Performance Enhancement**: Implementing high-speed caching solutions with **Redis**
-- **Real-time Gaming**: Creating seamless multiplayer experiences using **Socket.io**
-- **DevOps & Deployment**: Managing application scaling and cloud infrastructure
+**🏆 Professional GitHub**: [w3villa-shantanu-sharma](https://github.com/w3villa-shantanu-sharma)
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🎮 SuperOne Project**
+*Multiplayer Game Application*
+
+• Backend APIs with Node.js & Sails.js
+• Real-time gameplay with Socket.io
+• Database optimization with MySQL
+• High-performance caching with Redis
+
+</td>
+<td align="center" width="33%">
+
+**⚛️ Admin Dashboard**
+*React-based Management Interface*
+
+• Comprehensive user management
+• Real-time analytics & monitoring
+• Responsive design for all devices
+• Performance optimization
+
+</td>
+<td align="center" width="33%">
+
+**☁️ DevOps & Deployment**
+*Infrastructure Management*
+
+• Application scaling & optimization
+• Cloud deployment strategies
+• Performance monitoring
+• System architecture design
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎧 **Featured Personal Project: Podcast Linker**
-**Live Demo**: [podacast-linker.vercel.app](https://podacast-linker.vercel.app/)
+## 🎧 **Featured Project: Podcast Linker**
 
-A modern content management platform for podcast creators and listeners:
-- **Content Management**: Streamlined podcast organization and discovery
-- **User Experience**: Intuitive interface for content navigation
-- **Responsive Design**: Optimized for all device types
-- **Tech Stack**: React, Modern Web Technologies
-- **Deployment**: Vercel for optimal performance
+<div align="center">
+
+### [🔗 **Live Demo**: podacast-linker.vercel.app](https://podacast-linker.vercel.app/)
+
+**Modern Content Management Platform for Podcast Creators**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**✨ Key Features**
+- 🎵 Streamlined podcast organization
+- 🔍 Content discovery & search
+- 📱 Responsive design for all devices
+- ⚡ Fast performance with modern tech
+- 👥 User-friendly interface
+- 📊 Content analytics
+
+</td>
+<td width="50%">
+
+**🔐 Test Credentials**
+
+**👤 Normal User Login:**
+- **Email**: `shantanu@gmail.com`
+- **Password**: `Roorkee@8171`
+
+**🛡️ Admin Panel Access:**
+- **Email**: `admin@example.com`
+- **Password**: `admin123`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🛠️ Tech Stack**: React • Modern Web Technologies • Vercel Deployment
+
+*Feel free to test the platform using the credentials above!*
 
 </div>
 
 ---
 
-## 🔥 Current Focus & Expertise
+## 🏆 Recent GitHub Activity & Collaborations
 
 <div align="center">
 
-| 🎯 **Professional Work** | 🌱 **Learning & Growth** | 💡 **Personal Projects** |
-|:---:|:---:|:---:|
-| SuperOne Game Development | Docker Containerization | Podcast Linker Platform |
-| Real-time Gaming Features | Spring Boot Microservices | POS System Development |
-| Performance Optimization | Machine Learning Applications | Government Times Portal |
-| API Architecture Design | Advanced Cloud Technologies | Content Management Systems |
+### 📊 **Active Repositories & Contributions**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🏥 Healthcare & Genetics**
+- **[PGx Platform](https://github.com/devilwonder/PGx)** - *Collaborative Project*
+- Healthcare genetics platform development
+- Team collaboration and code contributions
+
+**📰 News & Information**
+- **[Government Times](https://github.com/devilwonder/Goverment-Times)** - *News Portal*
+- Full-stack news and information platform
+- Content management system implementation
+
+</td>
+<td align="center" width="50%">
+
+**💼 Business Applications**
+- **[POS System](https://github.com/shanu9144/POS)** - *Point of Sale*
+- Complete retail management solution
+- Inventory and sales tracking
+
+**🔍 Backend Development**
+- **[Job Listing Backend](https://github.com/shanu9144/job-lisitng-backend)** - *RESTful API*
+- Scalable job management system
+- Database design and optimization
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🌟 Recent Collaboration**: **[MERN Exploration](https://github.com/mreshank/explorin-autumn-mern-be-24)** - Backend Development
+
+*Contributing to full-stack MERN applications and learning advanced patterns*
 
 </div>
 
@@ -160,14 +258,6 @@ A modern content management platform for podcast creators and listeners:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### 🔧 Development Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -197,13 +287,6 @@ A modern content management platform for podcast creators and listeners:
 
 ## 🏆 Featured Projects & Repositories
 
-### 🎧 **Podcast Linker** - *Content Management Platform*
-**🔗 Live Demo**: [podacast-linker.vercel.app](https://podacast-linker.vercel.app/)
-- Modern podcast content management and discovery platform
-- Built with React and modern web technologies
-- Responsive design optimized for all devices
-- Deployed on Vercel for optimal performance
-
 <div align="center">
   <a href="https://github.com/shanu9144/POS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shanu9144&repo=POS&theme=algolia" />
@@ -219,11 +302,10 @@ A modern content management platform for podcast creators and listeners:
   - Frontend: React Admin Panel
   - Features: Real-time gameplay, user management, analytics dashboard
 
-### 🔥 Recent Contributions & Collaborations
-- **PGx** - Healthcare genetics platform (Collaborative project)
-- **Government Times** - News and information portal
-- **Job Listing Backend** - RESTful API for job management system
-- **MERN Exploration** - Full-stack development projects
+### 🤝 Collaborative Projects
+- **[PGx Healthcare Platform](https://github.com/devilwonder/PGx)** - Genetics & healthcare solutions
+- **[Government Times](https://github.com/devilwonder/Goverment-Times)** - News and information portal
+- **[MERN Backend Exploration](https://github.com/mreshank/explorin-autumn-mern-be-24)** - Advanced MERN stack development
 
 ---
 
@@ -239,6 +321,7 @@ A modern content management platform for podcast creators and listeners:
 ⚡ Redis & Caching        ██████████████░░░   85%
 🔌 Socket Programming     ██████████████░░░   85%
 🎧 Content Management     ██████████████░░░   85%
+🤝 Team Collaboration     ██████████████░░░   85%
 🐳 Docker & Deployment    ████████████░░░░░   75%
 ☁️  Cloud Technologies    ███████████░░░░░░   70%
 ```
@@ -251,20 +334,30 @@ A modern content management platform for podcast creators and listeners:
 
 <div align="center">
 
-```
-🎯 "Great applications are built on solid architecture and user-centric design"
-🚀 Building scalable solutions that millions can enjoy and benefit from
-🌟 Passionate about real-time systems, gaming, and content management
-☕ Powered by coffee, Redis caching, and seamless deployments
-🎮 Creating digital experiences that bring people together
-🎧 Connecting content creators with their audiences through technology
-```
+> *"Great applications are built on solid architecture and user-centric design"*
+
+🚀 **Building scalable solutions** that millions can enjoy and benefit from  
+🌟 **Passionate about real-time systems**, gaming, and content management  
+🤝 **Collaborative development** and open-source contributions  
+☕ **Powered by coffee**, Redis caching, and seamless deployments  
+🎮 **Creating digital experiences** that bring people together  
+🎧 **Connecting content creators** with their audiences through technology  
 
 </div>
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 📊 Development Activity
+
+<div align="center">
+
+### **Recent Contributions & Achievements**
+
+**🏆 Professional GitHub**: Actively contributing to enterprise-level projects at W3villa  
+**🤝 Open Source**: Regular contributions to collaborative projects  
+**📈 Growth**: Expanding expertise in healthcare, content management, and gaming platforms  
+
+</div>
 
 ```text
 Node.js/Sails.js  10 hrs 30 mins   ████████████████░   52.3%
@@ -285,6 +378,7 @@ Project Planning   30 mins         █░░░░░░░░░░░░░░
 |:---:|:---:|:---:|
 | 🏅 **LeetCode** | [@shanusharma](https://leetcode.com/u/shanusharma/) | Data Structures & Algorithms |
 | 🌟 **HackerRank** | [Dashboard](https://www.hackerrank.com/dashboard) | Problem Solving & Optimization |
+| 💼 **Professional GitHub** | [@w3villa-shantanu-sharma](https://github.com/w3villa-shantanu-sharma) | Enterprise Development |
 
 </div>
 
@@ -312,8 +406,8 @@ Project Planning   30 mins         █░░░░░░░░░░░░░░
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
-**🎮 Let's build amazing applications together! ⭐**
-**🎧 Connect. Create. Code. 🚀**
+**🎮 Let's build amazing applications together! ⭐**  
+**🤝 Open for collaborations and new opportunities! 🚀**
 
 </div>
 
