@@ -20,7 +20,7 @@
 
 ### 👨‍💻 **Shantanu Sharma** | Full Stack Developer
 
-🌍 **Based in India** | 💼 **Software Developer @ W3villa Technologies** | 🎯 **1+ Years Experience**
+🌍 **Based in India** | 💼 **Software Developer** | 🎯 **1+ Years Experience**
 
 </div>
 
@@ -28,13 +28,13 @@
 <tr>
 <td width="50%">
 
-**🎮 Current Professional Work**
+**🎮Professional Work**
 - **SuperOne** - Multiplayer Game Application
 - Building real-time gaming experiences
 - Scaling applications for thousands of users
 
 **🛠️ Core Technologies**
-- **Backend**: Node.js, Sails.js, Express.js
+- **Backend**: Node.js, Sails.js, Express.js , Python , Agentic AI , MCP ,  Langchain , Rag
 - **Frontend**: React, JavaScript, HTML5, CSS3
 - **Database**: MySQL, MongoDB, Redis
 - **Real-time**: Socket.io, WebSockets
