@@ -67,7 +67,7 @@
 
 **🎮 Fun Fact**: Building games and applications that connect people worldwide!
 
-**📧 Contact**: [shantanusharma9144@gmail.com](mailto:shantanusharma9144@gmail.com)
+**📧 Contact**: [shantanusharma9144@gmail.com](mailto:shantanu.7.dev@gmail.com)
 
 </div>
 
@@ -78,9 +78,8 @@
 <div align="center">
 
 ### 🏢 W3villa Technologies
-**Software Developer** | *Current Position*
+**Software Developer** | 
 
-**🏆 Professional GitHub**: [w3villa-shantanu-sharma](https://github.com/w3villa-shantanu-sharma)
 
 </div>
 
@@ -214,7 +213,7 @@
 
 <div align="center">
 
-**🌟 Recent Collaboration**: **[MERN Exploration](https://github.com/mreshank/explorin-autumn-mern-be-24)** - Backend Development
+**🌟Collaboration**: **[MERN Exploration](https://github.com/mreshank/explorin-autumn-mern-be-24)** - Backend Development
 
 *Contributing to full-stack MERN applications and learning advanced patterns*
 
@@ -314,9 +313,9 @@
 <div align="center">
 
 ```text
-🎮 Game Development        ████████████████░   95%
 🚀 Node.js & Sails.js     ████████████████░   95%
-⚛️  React Development      ███████████████░░   90%
+Python and Agentic AI      ████████████████░   95%
+⚛️  React Development     ███████████████░░   90%
 🗄️ Database Design        ██████████████░░░   85%
 ⚡ Redis & Caching        ██████████████░░░   85%
 🔌 Socket Programming     ██████████████░░░   85%
@@ -359,15 +358,6 @@
 
 </div>
 
-```text
-Node.js/Sails.js  10 hrs 30 mins   ████████████████░   52.3%
-React/JavaScript   6 hrs 15 mins   ████████████░░░░░   31.2%
-Database Design    2 hrs 45 mins   ██████░░░░░░░░░░░   13.7%
-DevOps/Deployment  1 hr 20 mins    ███░░░░░░░░░░░░░░    6.6%
-Redis Optimization 45 mins         ██░░░░░░░░░░░░░░░    3.7%
-Project Planning   30 mins         █░░░░░░░░░░░░░░░░    2.5%
-```
-
 ---
 
 ## 🎯 Coding Profiles & Achievements
@@ -378,7 +368,6 @@ Project Planning   30 mins         █░░░░░░░░░░░░░░
 |:---:|:---:|:---:|
 | 🏅 **LeetCode** | [@shanusharma](https://leetcode.com/u/shanusharma/) | Data Structures & Algorithms |
 | 🌟 **HackerRank** | [Dashboard](https://www.hackerrank.com/dashboard) | Problem Solving & Optimization |
-| 💼 **Professional GitHub** | [@w3villa-shantanu-sharma](https://github.com/w3villa-shantanu-sharma) | Enterprise Development |
 
 </div>
 
